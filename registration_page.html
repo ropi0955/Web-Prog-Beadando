@@ -16,39 +16,43 @@
     <h3>Regisztrálj rendszerünkbe, és oszd meg a világgal mit főztél ma!</h3>
     <form class="row g-3 needs-validation" novalidate>
         <div class="col-md-4 bg-warning">
-          <label for="validationCustom01" class="form-label">Keresztnév</label>
-          <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
+          <label for="firstname" class="form-label">Keresztnév</label>
+          <input type="text" class="form-control" id="firstname" name="firstname" value="" required>
           <div class="valid-feedback">
             Elfogadva!
           </div>
         </div>
         <div class="col-md-4 bg-warning">
-          <label for="validationCustom02" class="form-label">Vezetéknév</label>
-          <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+          <label for="lastname" class="form-label">Vezetéknév</label>
+          <input type="text" class="form-control" id="lastname" name="lastname" value="" required>
           <div class="valid-feedback">
             Elfogadva!
           </div>
         </div>
         <div class="col-md-4 bg-warning">
-          <label for="validationCustomUsername" class="form-label">Felhasználónév</label>
+          <label for="username" class="form-label">Felhasználónév</label>
           <div class="input-group has-validation">
             <span class="input-group-text" id="inputGroupPrepend">@</span>
-            <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+            <input type="text" class="form-control" id="username" name="username" aria-describedby="inputGroupPrepend" required>
             <div class="invalid-feedback">
               Válassz felhasználónevet.
             </div>
           </div>
         </div>
-        <div class="col-md-6">
-          <label for="validationCustom03" class="form-label">Város</label>
-          <input type="text" class="form-control" id="validationCustom03" required>
+        <div class="col-md-4 bg-warning">
+          <label for="jelszo" class="form-label">Jelszó:</label>
+          <input type="password" class="form-control" id="jelszo" name="jelszo" >
+        </div>
+        <div class="col-md-8">
+          <label for="city" class="form-label">Város</label>
+          <input type="text" class="form-control" id="city" name="city" required>
           <div class="invalid-feedback">
             Nincs ilyen város.
           </div>
         </div>
-        <div class="col-md-3">
-          <label for="validationCustom04" class="form-label">Ország</label>
-          <select class="form-select" id="validationCustom04" required>
+        <div class="col-md-6">
+          <label for="country" class="form-label">Ország</label>
+          <select class="form-select" id="country" name="country" required>
             <option selected disabled value="">válassz...</option>
             <option>Magyarország</option>
             <option>Egyesült királyság</option>
@@ -61,9 +65,9 @@
             Nincs ilyen ország.
           </div>
         </div>
-        <div class="col-md-3">
-          <label for="validationCustom05" class="form-label">Irányítószám</label>
-          <input type="text" class="form-control" id="validationCustom05" required>
+        <div class="col-md-6">
+          <label for="postcode" class="form-label">Irányítószám</label>
+          <input type="text" class="form-control" id="postcode" name="postcode" required>
           <div class="invalid-feedback">
             Helytelen irányítószám.
           </div>
