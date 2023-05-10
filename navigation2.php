@@ -1,5 +1,5 @@
 <?php
-    require_once('config.inc.php');
+    require_once('config.log.php');
 ?>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -10,7 +10,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+     
         <?php foreach( $kezdolap as $key => $kezdolap_tétel ) { ?>
+    
             <li class="nav-item">
                 <a 
                     class="nav-link active" 
@@ -20,7 +22,9 @@
                     <?php echo $kezdolap_tétel['text'] ?>
                 </a>
             </li>
+       
         <?php } ?>
+        
       </ul>
     </div>
   </div>

@@ -1,10 +1,10 @@
 <?php 
 
 $kezdolap = array(
-  
-    array('link' => '/Web-Prog-Beadando/registration.php','text' => 'Registration'),
-    array('link' => '/Web-Prog-Beadando/login.php','text' => 'Login'),
-    array('link' => '/Web-Prog-Beadando/aboutus.php','text' => 'About us'),
+    array('link' => '/Web-Prog-Beadando/index.php','text' => 'Kezdőoldal'),
+    array('link' => '/Web-Prog-Beadando/registration.php','text' => 'Regisztráció'),
+    array('link' => '/Web-Prog-Beadando/login.php','text' => 'Bejelentkezés'),
+    array('link' => '/Web-Prog-Beadando/aboutus.php','text' => 'Rólunk'),
 );
 
 ?>

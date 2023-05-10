@@ -16,13 +16,12 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
     if (count($users) === 1) {
         $_SESSION['authenticated'] = true;
         // Redirect to your secure location
-        header('Location: welcome.php');
+        header('Location: receipts.php');
         return;
     } else {
         $error = 'Incorrect username or password';
     }
 }
-
 ?>
 
 <!DOCTYPE html>
@@ -46,7 +45,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
           <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
             <?php if ( isset($error) ) { ?>  
                 <div class="alert alert-danger">
-                    Email or password is wrong!
+                    Email vagy a jelszó nem létezik!
                 </div>
             <?php } ?>
           </div>
@@ -58,8 +57,8 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
                 type="email" 
                 id="form3Example3" 
                 class="form-control form-control-lg"
-                placeholder="Enter a valid email address">
-            <label class="form-label" for="form3Example3">Email address</label>
+                placeholder="Normális e-mailt adj">
+            <label class="form-label" for="form3Example3">Email cím</label>
           </div>
 
           <!-- Password input -->
@@ -69,15 +68,15 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
                 type="password" 
                 id="form3Example4" 
                 class="form-control form-control-lg"
-                placeholder="Enter password">
-            <label class="form-label" for="form3Example4">Password</label>
+                placeholder="Jelszavadat senki ne lássa">
+            <label class="form-label" for="form3Example4">Jelszó</label>
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">
             <button type="submit" class="btn btn-primary btn-lg"
-              style="padding-left: 2.5rem; padding-right: 2.5rem;">Login</button>
-            <p class="small fw-bold mt-2 pt-1 mb-0">Don't have an account? <a href="registration.php"
-                class="link-danger">Register</a></p>
+              style="padding-left: 2.5rem; padding-right: 2.5rem;">Bejelentkezés</button>
+            <p class="small fw-bold mt-2 pt-1 mb-0">Nincs még profilod? <a href="registration.php"
+                class="link-danger">Regisztráció</a></p>
           </div>
 
         </form>

@@ -34,25 +34,25 @@ $db_name='receipt';
         <h3>Regisztrálj rendeszerünkbe, és oszd meg a világgal mit főztél ma!</h3>
         <form action="" method="POST">
             <div class="col-md-4 bg-warning">
-                <label for="">Firstname</label>
+                <label for="">Keresztnév</label>
                 <input name="firstname" type="text" class="form-control">
                 <div class="valid-feedback">
             Elfogadva!
             </div>
             <div class="col-12">
-                <label for="">Lastname</label>
+                <label for="">Vezetéknév</label>
                 <input name="lastname" type="text" class="form-control">
                 <div class="valid-feedback">
             Elfogadva!
             </div>
             <div class="col-12">
-                <label for="">Username</label>
+                <label for="">Felhasználónév</label>
                 <input name="username" type="text" class="form-control">
                 <div class="invalid-feedback">
               Válassz felhasználónevet.
             </div>
             <div class="col-12">
-                <label for="">Password</label>
+                <label for="">Jelszó</label>
                 <input name="password" type="text" class="form-control">
             </div>
             <div class="form-action">
@@ -60,13 +60,13 @@ $db_name='receipt';
                 <input name="email" type="email" class="form-control">
             </div>
             <div class="col-12">
-                <label for="">City</label>
+                <label for="">Város</label>
                 <input name="city" type="text" class="form-control" id="city">
                 <div class="invalid-feedback">
             Nincs ilyen város.
             </div>
             <div class="col-12">
-            <label for="country" class="form-label">Country</label>
+            <label for="country" class="form-label">Ország</label>
           <select class="form-select" id="country" name="country" required>
             <option selected disabled value="">válassz...</option>
             <option>Magyarország</option>
