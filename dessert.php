@@ -11,38 +11,98 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
   </head>
   <body>
-  <h2>Egészben sült csirkecomb </h2>
-<p>A csirkecombok ebben a könnyedén elkészíthető, egytálas, görög ihletésű csirkés ételben az est fénypontjává válnak, amelyek megérintik majd mindenki lelkét. Gyakran elhanyagolják a a combokat a melleket szem előtt tartva, de a szerény csirkecomb érdekesé varázsolható, hiszen mindig omlós és szaftos marad. Ráadásul költséghatékony választás a csirkehúsból készült ételek közül, ami igazán megnyugtatja a lelked, majd táplálja a tested és spórol a konyhapénzből is.</p>
-<p>Hogy az ételnek igazán görög hangulatot adjunk, először egy krémes, citromos orzót (olasz tészta) készítettünk, amely a csirkecombokkal együtt készül el a sütőben. Aztán a finom paradicsom, Kalamata olívabogyó és kapor keveréke adja az egész ételnek a frissességet és a szeretetet, amitől az otthonod melegében érezheted magad &#8211; gondolj egy főételre és salátára egyben, amely összeköti a szívünket!</p>
-<p>Kipróbáltad? Oszd meg velünk a tapasztalataidat, és mesélj az érzéseidről a hozzászólásokban lentebb.</p>
-<p><strong>Hozzávalók 4 főre</strong></p>
-<p>6 csirkecomb (kb. 1 kg összesen)<br />
-2 tk. só, felosztva, és egy kis extra<br />
-1/4 tk. frissen őrölt fekete bors, és egy kis extra<br />
-4 ek. extra szűz olívaolaj<br />
-Felvágva 1 közepes salota hagyma (vagy lilahagyma is mehet bele), finomra vágva<br />
-230 g Orzo tészta<br />
-3 gerezd fokhagyma, finomra vágva<br />
-1,2 dl száraz fehérbor<br />
-5 dl alacsony nátriumtartalmú csirkehúsleves<br />
-1,2 dl tejszín<br />
-1 tk. finomra reszelt citromhéj<br />
-2 ek. friss citromlé<br />
-5 dl megfelezett cseresznye- vagy koktélparadicsom<br />
-110 g morzsolt feta (kb. 2,5 dl)<br />
-1,2 dl durvára vágott Kalamata olívabogyó (kb. 85 g)<br />
-0,6 dl durvára vágott friss kapor<br />
-Citromszeletek, tálaláshoz</p>
+    <div>
+    <h1><strong>Desszertek</strong></h1><br/>
+
+
+<h3><strong>Hókifli</strong></h3><br/>
+<p>A hókifli nagyon praktikus karácsonyi sütemény, hiszen napokkal, sőt akár hetekkel az ünnepek előtt összedobhatjuk, akkor sem fog kiszáradni.
+A hókifli az a függőséget okozó sütemény, amit egyszerűen nem lehet abbahagyni: a diós belső, az omlós tészta és a vaníliás porcukor tökéletes elegye, ami annál finomabb lesz, minél több napot hagyjuk állni. Ez kevés sütinél van így, de a hókiflinél tényleg halmozottan működik.</p>
+<p><strong>Hozzávalók</strong></p>
+<ul>
+<li>50 dkg finomliszt</li>
+<li>25 dkg margarin</li>
+<li>1 dl tejföl (vagy amennyit felvesz, hogy puha, gyúrható legyen a tészta)</li>
+<li>10 dkg dió</li>
+<li>10 dkg cukor</li>
+<li>0.5 citromból nyert citromhéj</li>
+<li>5 dkg szilvalekvár (saját készítésű)</li>
+<li>10 dkg porcukor</li>
+<li>2 csomag vaníliás cukor</li>
+<li>1 db tojássárgája</li></ul><br />
+<p><strong>Elkészítés:</strong></p>
+<div>A lisztet a margarinnal elmorzsoljuk, majd hozzáadjuk a tojássárgáját és annyi tejfölt teszünk hozzá, hogy puha tésztát kapjunk belőle.
+A tésztát kb. 2 mm vastagságúra kinyújtjuk, és egy 6 cm-es átmérőjű pogácsaszaggatóval köröket szaggatunk.
+A darált diót a reszelt citromhéjjal, a cukorral és 2-3 evőkanál tejföllel (vagy tejjel) elkeverjük.
+A körök egyik felére kanalazzuk a tölteléket (diósat és lekvárosat), majd a körök másik felét ráhajtjuk, és a széleket szépen összenyomkodjuk, vigyázzunk hogy ki ne szakadjon. Erre a célra tökéletesen megfelel egy villa.
+Sütőpapírral bélelt tepsibe helyezzük a kifliket, és 190 fokra előmelegített sütőbe toljuk 20-22 percre.
+Ha megsült, még forrón a vaníliás cukorral elkevert porcukorba forgatjuk őket.</div><br/>
+<p>Jó étvágyat kívánunk!</p><br/>
+
+
+<h3><strong>Mézes krémes</strong></h3><br />
+<div>Bár a zserbó talán nagyobb népszerűségnek örvend, mi személy szerint a mézes krémes pártján állunk. Nem olyan tömény, roppant puha, és annyit meg lehet belőle enni, hogy utána már csak a lelkiismeretfurdalás morzsái maradnak a tányérokon.
+Sok variációja ismert, ahány ház, annyi szokás. Megoszlanak a vélemények, hogy kell-e lekvár a mézes piskótalapok közé. Szerintünk nagyon feldobja a plusz lekvár, de nélküle is megállja a helyét a sütemény. A tetejét is sokféleképpen díszíthetjük lehet csokimázzal, de simán porcukorral meghintve is.
+Bár általánosan  táján kerül az asztalokra, valójában minden nagyobb ünnep alkalmával ott a helye, így húsvét közeledtével aktuálissá válik ismételten.</div><br/>
+<p><strong>Hozzávalók</strong></p>
+<ul>
+<li>45 dkg finomliszt</li>
+<li>10 dkg porcukor</li>
+<li>5 ek tej</li>
+<li>1 csomag vaníliás cukor</li>
+<li>1 db tojás (felverve)</li>
+<li>4 ek méz</li>
+<li>3 ek disznózsír (olvasztva)</li>
+<li>2 teáskanál szódabikarbóna</li>
+</ul>
+<p><strong>Töltelékhez<p></strong>
+<ul>
+<li>5 dl tej</li>
+<li>25 dkg vaj</li>
+<li>15 dkg porcukor</li>
+<li>2 csomag vaníliás cukor</li>
+<li>1 db tojássárgája</li>
+<li>100 g búzadara</li>
+<li>6 ek lekvár/ dzsem (kenéshez)</li>
+<li>10 dkg tortabevonó (a tetejére)</li>
+</ul>
 <p><strong>Elkészítés</strong></p>
-<p>Melegítsd elő a sütőt 220 °C-ra. Fűszerezd meg a combokat  1,5 teáskanál sóval és 1/4 teáskanál borssal.</p>
-<p>Egy nagy serpenyőben közepes-lángon melegíts fel 2 evőkanál olajat. Süsd a csirkét, időnként megfordítva, amíg mindkét oldala megpirul, körülbelül 12 perc alatt. Helyezd át egy tányérra. Ezután töröld ki a felesleges olajat a serpenyőből.</p>
-<p>Ugyanebben a serpenyőben közepes lángon melegítsd fel a maradék 2 evőkanál olajat. Párold meg a salottát (vagy sima lilahagymát), időnként kevergetve, amíg megpuhul és üveges lesz, körülbelül 2 perc alatt. Add hozzá az orzót (tésztát) és a fokhagymát, majd kevergetve süsd, amíg az orzo tészta enyhén megpirul, és a fokhagyma illatos és világos aranyszínű lesz, körülbelül 2 perc alatt. Öntsd hozzá a bort, és forrald fel. Kevergetve főzd, amíg a folyadék majdnem elpárolog, körülbelül 1 percig.</p>
-<p>Adj hozzá húsleves alaplét (vagy vizet), tejszínt, citromhéjat, citromlevet és 1/2 teáskanál sót. Forrald fel. Ezután helyezd vissza a csirkéket a serpenyőbe.</p>
-<p>Süsd a csirkékett fedetlenül, amíg a tészta megpuhul, és a folyadék nagyrészt felszívódik, és a csirke átsül, kb 20-25 perc alatt.</p>
-<p>Ezután egy közepes tálban keverd össze a paradicsomot, a fetát, az olívabogyókat és a kaprot; ízesítsd egy csipetnyi sóval és borssal.</p>
-<p>Helyezz egy kevés paradicsomos keveréket a serpenyő tetejére.</p>
-<p>Majd mikor minden kész tálald citromszeletekkel és a maradék paradicsomos keverékkel a tetején.</p>
+<div>A tészta hozzávalóit alaposan összegyúrjuk, majd négy felé szedjük.
+Tepsi tetején egyesével megsütjük. Kb. 8-10-perc alatt laponként.
+A cukrot, a vaníliás cukrot és a tojássárgáját habosra keverjük, majd összekeverjük a grízes krémmel.
+A tejet felforraljuk, beletesszük a grízt, levesszük a tűzről és kihűlésig kevergetjük.
+Az első lap tetejére rákenjük a krém felét, majd rátesszük a második lapot, ezt pedig lekvárral borítjuk be. Ezután következik a harmadik lap, amit ismét a fehér krémmel kenünk meg, végül pedig rásimítjuk a negyedik lapot.
+Ha szeretnénk a tetejét olvasztott tortabevonóval kenjük meg. Ha viszont ezzel már nem szeretnénk pepecselni, simán porcukorral meghintve is isteni a mézes krémes.</div>
 <p>Jó étvágyat kívánunk!</p>
+
+<h3><strong>Bejgli</strong></h3><br />
+
+<p><strong>Hozzávalók</strong></p>
+<ul>
+<li>50 dkg liszt</li>
+<li>25 dkg margarin</li>
+<li>5 dkg porcukor</li>
+<li>2 db tojás sárgája</li>
+<li>1 dl tej</li>
+<li>2 dkg élesztő</li>
+<li>1 csipet só</li>
+<li>A töltelékhez:</li>
+<li>1 dl víz</li>
+<li>12 dkg cukor</li>
+<li>20 dkg dió (vagy mák)</li>
+<li>5 dkg mazsola</li>
+<li>őrölt fahéj</li>
+<li>5 dkg méz</li>
+<li>édes morzsa</li>
+<li>reszelt citromhéj (vagy narancshéj)</li>
+</ul>
+<p><strong>Elkészítés:</strong></p>
+<div>A lisztet a margarinnal gyors mozdulatokkal elmorzsoljuk, ügyelve arra, hogy ne olvadjon meg. Hozzáöntjük a porcukrot, a tojás sárgáját és a tejben feloldott élesztőt (nem szabad felfuttatni előtte az élesztőt). Közepes keménységű tésztát gyúrunk belőle és kb. 25 dkg-os cipókat készítünk a tésztából. A hűtőben lefóliázva 15-20 percig pihentetjük.
+Most pedig jöhet a töltelék! A forrázott mák-vagy diótöltelékhez a vizet a cukorral feltesszük forrni. Ha forr, a tűzről lehúzzuk, majd hozzáadjuk a mákot, az örölt fahéjat, a mazsolát, és ha szeretnénk az édes morzsát is. A diótöltelék hasonló módon készül el. Amikor a forrázott töltelékek kihűltek, akkor kimérünk belőle ugyanannyit, amennyi a bejglik súlya.
+A pihentett tésztát kinyújtjuk kb. 22-28 cm-es téglalap formára. A töltelékeket a tésztára helyezzük, és elegyengetjük őket. A tészta három oldalát kb. 1 cm-es részben behajtjuk. Ezután jöhet a bejgli tekerés, amit a végén gyengéden meglapítunk. Tepsibe tesszük, és megkenjük 1 tojás, valamint 1 tojássárgája keverékkel. Amikor a tojás rászáradt, akkor még egy rétegben megkenjük. Hurkapálcával megszurkáljuk. Végül 180 fokos sütőben aranysárgára sütjük.
+</div><br/>
+<p>Jó étvágyat kívánunk!</p><br/><br/>
+</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
   </body>
