@@ -1,5 +1,5 @@
 <?php
-$db_pass='3wsnIB[Qs0PZ]_zh';
+$db_pass='94ZR*y5HPf3gQ-9/';
 
 $db_name='receipt';
 require_once('config.inc.php');
@@ -76,7 +76,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
             <button type="submit" class="btn btn-primary btn-lg"
               style="padding-left: 2.5rem; padding-right: 2.5rem;">Bejelentkezés</button>
             <p class="small fw-bold mt-2 pt-1 mb-0">Nincs még profilod? <a href="registration.php"
-                class="link-danger">Regisztráció</a></p>
+                class="link-primary">Regisztrálj!</a></p>
           </div>
 
         </form>

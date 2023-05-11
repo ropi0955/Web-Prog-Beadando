@@ -1,5 +1,5 @@
 <?php
-$db_pass='3wsnIB[Qs0PZ]_zh';
+$db_pass='94ZR*y5HPf3gQ-9/';
 
 $db_name='receipt';
 require_once('config.log.php');

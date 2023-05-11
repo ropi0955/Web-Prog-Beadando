@@ -1,6 +1,6 @@
 <?php
 
-$db_pass='3wsnIB[Qs0PZ]_zh';
+$db_pass='94ZR*y5HPf3gQ-9/';
 
 $db_name='receipt';
 
@@ -26,14 +26,14 @@ $db_name='receipt';
     <title>Users</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
   </head>
-  <div class="container bg-warning">
+  <div class="container">
     <div class="row">
   <body>
-      <div class="container bg-warning">
+      <div class="container">
         <h1>Csatlakozz szakácsainkhoz!</h1>
         <h3>Regisztrálj rendeszerünkbe, és oszd meg a világgal mit főztél ma!</h3>
         <form action="" method="POST">
-            <div class="col-md-4 bg-warning">
+            <div class="col-md-4">
                 <label for="">Keresztnév</label>
                 <input name="firstname" type="text" class="form-control">
                 <div class="valid-feedback">
